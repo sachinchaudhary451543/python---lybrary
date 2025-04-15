@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Login - Secure Bank</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+    <div class="container">
+        <h2>🔑 Login to Your Account</h2>
+        <form method="POST">
+            <label for="account_number">Account Number:</label>
+            <input type="text" name="account_number" required>
+            <button type="submit">Login</button>
+        </form>
+
+        <p>Forgot your account number? <a href="/recover">Recover Account</a></p>
+        <p>New user? <a href="/register">Create an Account</a></p>
+    </div>
+</body>
+</html>
