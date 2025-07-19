@@ -1,3 +1,5 @@
+<img width="1365" height="767" alt="plots" src="https://github.com/user-attachments/assets/ce33319c-c3ef-48d3-abcf-402678fe9e41" />
+<img width="1365" height="767" alt="plots" src="https://github.com/user-attachments/assets/e75f3796-9af9-48f8-9369-7235ae0b3082" />
 # 📘 Python Libraries Learning – CodeWithSP
 
 This repository is a personal learning notebook to explore and understand core Python libraries used in data analysis and visualization. Each folder or script focuses on a specific library like **NumPy**, **Pandas**, **Matplotlib**, and **Seaborn**, with examples and visualizations.
@@ -33,7 +35,7 @@ This repository is a personal learning notebook to explore and understand core P
 
 ## ▶️ Usage
 
-Clone the repository:
+Clone the repository:  
 
 ```bash
 git clone https://github.com/sachinchaudhary451543/python---lybrary.git
