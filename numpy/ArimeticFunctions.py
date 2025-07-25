@@ -1,9 +1,9 @@
-# np.min(x)
-# np.max(x)
+# np.min(x)--->minimum value
+# np.max(x)--->max value
 # np.argmin(x)---> this finds the index of the min, max value's
-# np.sqrt(x)
-# np.sin(x)
-# np.cos(x)
+# np.sqrt(x)---.> square root
+# np.sin(x)--->sinvalue
+# np.cos(x)--->cosvalue
 # np.cumsum(x)--->this adds their upcoming values in that
 
 

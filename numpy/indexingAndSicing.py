@@ -46,7 +46,7 @@
 
 
 
-# one dimention array sliciing-----------------------
+# one dimention array slicing-----------------------
 # import numpy as np
 # var = np.array([2,3,4,5,6,7,8,9,10,11,12])
 # print("start to end access: ", var[:])
@@ -72,8 +72,8 @@
 
 
 
-# 2dimention array slicing---------------------
-import numpy as np
-var2 = np.array([[[5,6,7,8,9],[11,12,13,14,15],[22,23,24,25,26]]])
-print("get access to 1st array: ", var2[0,0,1:])
-print("get access to 2nd array: ", var2[0,1,2:])
+# 3dimention array slicing---------------------
+# import numpy as np
+# var2 = np.array([[[5,6,7,8,9],[11,12,13,14,15],[22,23,24,25,26]]])
+# print("get access to 1st array: ", var2[0,0,1:])
+# print("get access to 2nd array: ", var2[0,1,2:])
